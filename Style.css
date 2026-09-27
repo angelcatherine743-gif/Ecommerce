@@ -1,0 +1,16 @@
+body{
+background:#f4f4f4;
+}
+
+.product-card{
+cursor:pointer;
+transition:transform 0.2s;
+}
+
+.product-card:hover{
+transform:scale(1.05);
+}
+
+.product-title{
+font-weight:bold;
+}
